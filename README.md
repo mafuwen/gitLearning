@@ -1,7 +1,9 @@
 xiaoWenZi git learning v1.0.0
 
 
-remote first push.bbbbbb
+
+remote first push.aaaaaa/bbbbbb
+
 
 remote second push.
 
