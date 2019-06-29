@@ -24,3 +24,5 @@ remote 10th push.
 remote 11th push.
 
 remote 12th push.
+
+git_learning_02 push.
