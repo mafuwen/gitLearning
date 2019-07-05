@@ -6,7 +6,3 @@ bbbbbbb
 ccccccc
 ddddddd
 eeeeeee
-
-
-6666666
-7777777
